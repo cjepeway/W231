@@ -52,7 +52,6 @@ Netflix did that, back in the day,
 when they offerred
 [a million dollar prize](https://netflixprize.com) for help with
 recommending DVDs to their subscribers.
-with their re.
 
 They were wrong about the de-identification thing,
 and [they got sued & settled out of court](http://www.forbes.com/sites/firewall/2010/03/12/netflix-settles-privacy-suit-cancels-netflix-prize-two-sequel/)
@@ -65,6 +64,21 @@ public IMDB ratings
 and the Netflix transactions
 to determine who watched what movies
 in the privacy of their own homes.
+Netflix customers were none too happy
+that data containing 10% or more of their
+private queues were out there
+for anyone to tie back to their public face.
 
-They were responsible, mind you: no public disclosures of whether I watch Bambi movies in the wee hours of the night, eg.
+Now, Narayanan and Shmatikov
+were responsible, mind you: no public disclosures of whether I watch Bambi movies in the wee hours of the night, eg.
+But their paper did lead to the shutdown of further Netflix Prizes,
+and it kinda sounded a death knell for "collaborative filtering."
+
+It, along with a class visit from
+[Khaled El Emam](https://www.privacy-analytics.com/team/khaled-el-emam/)
+got me interested in replicating the Netflix Prize Killers work.
+
+So that turned in my course project.
+
+You can see the presentation I gave on it, if you like.
 
