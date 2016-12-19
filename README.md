@@ -95,3 +95,8 @@ So...my calculations for standard deviations weren't made with the right data.
 So the matches aren't right.
 
 Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
+
+<hr>
+<small>
+Oh, hey, if any fellow MIDS student makes it his far.
+</small>
