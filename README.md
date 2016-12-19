@@ -80,5 +80,5 @@ got me interested in replicating the Netflix Prize Killers work.
 
 So that turned in my course project.
 
-You can see [the presentation I gave on it](./blob/master/OtTotNPK.pdf), if you like.
+You can see [the presentation I gave on it](./OtTotNPK.pdf), if you like.
 
