@@ -78,7 +78,20 @@ It, along with a class visit from
 [Khaled El Emam](https://www.privacy-analytics.com/team/khaled-el-emam/)
 got me interested in replicating the Netflix Prize Killers work.
 
-So that turned in my course project.
+So that turned into my course project.
 
 You can see [the presentation I gave on it](https://github.com/cjepeway/W231-Public-Advocacy/blob/master/OtTotNPK.pdf), if you like.
+I had fun working on it, and my classmates seemed to dig it.
 
+Here's [the code & data]() it picks through.
+
+But, um...confession.  I got the code wrong.  I iterated over the wrong data set.
+I iterated over the equivalent of the IMDB ratings, looking for matches in the queue data,
+instead of the other way around.  In my case, I was supposed to iterate over the
+candy data, looking for matches in the demo data I made up, trying to
+discover who likes gum and who likes Starburst.
+But I didn't; I did it backwards.
+So...my calculations for standard deviations weren't made with the right data.
+So the matches aren't right.
+
+Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
