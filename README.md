@@ -97,6 +97,11 @@ So the matches aren't right.
 Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
 
 <hr>
-<small>
-Oh, hey, if any fellow MIDS student makes it his far.
-</small>
+Oh, hey, if any fellow MIDS student makes it his far, I really think you should take W241.
+You might think "eh, I can take it via MIDS4Life, I really want that ML @ scale class, that's juicy."
+You'd be wrong, though.
+_Ethics_ is *way* juicier.
+You can pick up that tech stuff on your own, pestering some grads and some profs on slack.
+You *can't* have a conversation with Nathan or Anna about how the mosly well-intentioned medicos
+who first handled HeLa cells just blew it, ethically, through nearly no fault of their own.
+Sure, you can *listen* to a conversation like that...but you'll want to participate, I promise.
