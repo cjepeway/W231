@@ -11,13 +11,14 @@ In particular, y'all need to know about _Ethics_ and the
 project I've been working on for lo these past few weeks.
 
 First, our instructors.  They're phenomenal:
-* Anna Laruen Hoffman, who really had us going gangbusters when she guested a class
-* Deirdre Mulligan, whose intellect, high expectations of her students, and ability to tweeze deep thought out of busy distance learners are all much appreciated
-* Nathan Good, his topic mastery and laidback herding of cats make a 9:30PM EST class start nearly a joy
+* [Anna Laruen Hoffman](https://datascience.berkeley.edu/about/about-our-faculty/profile/anna-lauren-hoffman/), who really had us going gangbusters when she guested a class
+* [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan), whose scary-smart, high expectations of her students, and ability to tweeze deep thought out of busy distance learners are all much appreciated
+* [Nathan Good](http://www.goodresearch.com/index.html), his topic mastery and laidback herding of cats make a 9:30PM EST class start nearly a joy
 
 Really, though, the topic is something else.  It's the ethics of data: privacy, governance, furthering human endeavor using it.
 And it's unlike any other MIDS class, perhaps save RDADA.
-You get to *think* in this class.  Deeply, shallowly, broadly, narrowly.
+You get to *think* in this class, not just learn.
+Deeply, shallowly, broadly, narrowly, discursively.
 And you're encouraged to do it.
 
 Why?
@@ -83,7 +84,7 @@ So that turned into my course project.
 You can see [the presentation I gave on it](https://github.com/cjepeway/W231-Public-Advocacy/blob/master/OtTotNPK.pdf), if you like.
 I had fun working on it, and my classmates seemed to dig it.
 
-Here's [the code & data]() it picks through.
+Here's [the code & data](https://github.com/cjepeway/W231-Public-Advocacy/tree/master/c%2Bd) it picks through.
 
 But, um...confession.  I got the code wrong.  I iterated over the wrong data set.
 I iterated over the equivalent of the IMDB ratings, looking for matches in the queue data,
@@ -95,6 +96,7 @@ So...my calculations for standard deviations weren't made with the right data.
 So the matches aren't right.
 
 Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
+And I might even fix it.
 
 <hr>
 Oh, hey, if any fellow MIDS student makes it his far, I really think you should take W241.
