@@ -16,7 +16,7 @@ First, our instructors.  They're phenomenal:
 * [Nathan Good](http://www.goodresearch.com/index.html), his topic mastery and laidback herding of cats make a 9:30PM EST class start nearly a joy
 
 Really, though, the topic is something else.  It's the ethics of data: privacy, governance, furthering human endeavor using it. And it's unlike any other MIDS class, perhaps save RDADA.
-You get to *think* in this class<sup>[*](#fn1)</sup>, not just learn<a href="#fn1-cite"></a>.
+You get to *think* in this class<sup>[*](#fn1)</sup>, not just learn<a name="fn1-cite"></a>.
 Deeply, shallowly, broadly, narrowly, discursively.
 And you're encouraged to do it.
 
@@ -97,7 +97,7 @@ So the matches aren't right.
 Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
 And I might even fix it.
 
-<a href="fn1">*</a>: Thanks to Sean Underwood for passing on this gem to me[^](fn1-cite).
+<a name="fn1">*</a>: <sub>Thanks to Sean Underwood for passing on this gem to me[^](fn1-cite)</sub>.
 
 <hr>
 Oh, hey, if any fellow MIDS student makes it his far, I really think you should take W241.
