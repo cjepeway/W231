@@ -97,7 +97,7 @@ So the matches aren't right.
 Well, except they are, but probably only accidentally.  Ah well.  I'll eventually live it down.
 And I might even fix it.
 
-<a href="#fn1">*</a>: Thanks to Sean Underwood for passing on this gem to me[^](#fn1-cite).
+<a href="fn1">*</a>: Thanks to Sean Underwood for passing on this gem to me[^](fn1-cite).
 
 <hr>
 Oh, hey, if any fellow MIDS student makes it his far, I really think you should take W241.
